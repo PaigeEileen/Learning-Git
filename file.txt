@@ -1,2 +1,3 @@
+Add a third line of text. 
 Go ahead and add one more line of text to the file.
 (It can be anything.)
